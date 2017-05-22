@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "highcharts-export-server enableServer 1 port 5000",
+    "start": "highcharts-export-server enableServer 1 --sslOnly",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
