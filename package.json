@@ -1,0 +1,15 @@
+{
+  "name": "highcharts-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "highcharts-export-server enableServer 1 port 80",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highcharts-export-server": "1.0.15"
+  }
+}
