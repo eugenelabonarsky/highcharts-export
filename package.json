@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "highcharts-export-server enableServer 1 port 8080",
+    "start": "highcharts-export-server enableServer 1 port 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
