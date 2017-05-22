@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "4.0.0",
-    "highcharts-export-server": "1.0.15"
+    "highcharts-export-server": "1.0.14"
   }
 }
